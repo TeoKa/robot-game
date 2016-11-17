@@ -3,31 +3,6 @@ small project on c++.
 
 
 # from the console
-  --------------------------------------------
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . H . . . . . . . . . . . . . . . . . . . .  |
-| . . . H . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . . . . H . . . . .  |
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . . . . . . X . . .  |
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . . H . . . . . . .  |
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . . . . . . . . . .  |
-| . . . . . . . . . . . . . H . . . . . . . .  |
-  --------------------------------------------
-your definition
-x posi: 7
-y posi: 18
-ori   : n
 
-Make your move ('turn left' and 'turn right', change only direction)
-
-move forward  = f
-move backward = b
-turn right    = r
-turn left     = l
-: 
+* Decide the number of enemy to play against.
+* Escape from the Maze !!
